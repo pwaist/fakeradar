@@ -1,9 +1,9 @@
 # Fakeradar »KILLtheLIE«
 Fakeradar ist eine benutzerfreundliche App zur Überprüfung der Glaubwürdigkeit von Nachrichten, Blogartikel und Videos. Sie analysiert Texte, Bilder und Videos auf Manipulation und hilft Nutzern, Desinformation zu erkennen. Die App ist kostenlos und ohne Anmeldung verfügbar, sowohl als PWA App, als Android App und auch als Chrome-Erweiterung.
 
-![image](https://fakeradar.de/wp-content/uploads/2025/02/Fakeradar-vorstellungsgrafik_upscayle-scaled.jpg)
-
 # »Wahrheit ist die schönste Formel des Universums.«
+
+![image](https://fakeradar.de/wp-content/uploads/2025/02/Fakeradar-vorstellungsgrafik_upscayle-scaled.jpg)
 
 # Links
 🔗 https://fakeradar.de <br>
