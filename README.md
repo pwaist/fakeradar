@@ -9,7 +9,7 @@ Fakeradar ist eine benutzerfreundliche App zur Überprüfung der Glaubwürdigkei
 
 # Fakeradar: Eine umfassende Analyse der App zur Erkennung von Fake News und Deepfakes  
 
-In einer Zeit, in der Desinformation und manipulierte Medieninhalte zunehmend die öffentliche Debatte prägen, stellt die App Fakeradar (fakeradar.de) ein innovatives Werkzeug dar, das Nutzerinnen und Nutzer befähigt, kritisch mit Informationen umzugehen. Die App kombiniert KI-gestützte Analysen mit pädagogischen Elementen, um nicht nur Falschmeldungen und Deepfakes zu identifizieren, sondern auch die Medienkompetenz der Anwender systematisch zu stärken. Durch die Integration von Text-, Bild- und Videoanalysen sowie transparenten Bewertungskriterien schafft Fakeradar eine Plattform, die technologische Präzision mit nutzerzentrierter Aufklärung verbindet.  
+In einer Zeit, in der Desinformation und manipulierte Medieninhalte zunehmend die öffentliche Debatte prägen, stellt die App Fakeradar ein innovatives Werkzeug dar, das Nutzerinnen und Nutzer befähigt, kritisch mit Informationen umzugehen. Die App kombiniert KI-gestützte Analysen mit pädagogischen Elementen, um nicht nur Falschmeldungen und Deepfakes zu identifizieren, sondern auch die Medienkompetenz der Anwender systematisch zu stärken. Durch die Integration von Text-, Bild- und Videoanalysen sowie transparenten Bewertungskriterien schafft Fakeradar eine Plattform, die technologische Präzision mit nutzerzentrierter Aufklärung verbindet.  
 
 ## Technologische Grundlagen und Funktionsweise  
 
