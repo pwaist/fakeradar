@@ -58,7 +58,7 @@ Die Agenten nutzen verschiedene technologische Ansätze, darunter:
 - SERP-Analyse mit [Google GSE](https://programmablesearchengine.google.com/intl/de_de/about/)
 - RSS Parser
 - Extraktion relevanter Schlüsselwörter mit NLP APIs (Textrazor & NeuronWriter)
-- weitere APIs: [Google Search API](https://serpapi.com),[Bing SERP API](https://www.microsoft.com/en-us/bing/apis/bing-web-search-api), [Pinecone.io API](https://docs.pinecone.io/reference/api/introduction), [Qdrant API](https://api.qdrant.tech/v-1-13-x/api-reference), [PlagiarismCheck API](https://plagiarismcheck.org/for-developers/), [Deepl API](https://www.deepl.com/de/pro-api/)
+- weitere APIs: [Google Search API](https://serpapi.com) | [Bing SERP API](https://www.microsoft.com/en-us/bing/apis/bing-web-search-api) | [Pinecone.io API](https://docs.pinecone.io/reference/api/introduction) | [Qdrant API](https://api.qdrant.tech/v-1-13-x/api-reference) | [PlagiarismCheck API](https://plagiarismcheck.org/for-developers/) | [Deepl API](https://www.deepl.com/de/pro-api/)
 
 Durch diese modulare, agentenbasierte Architektur bietet Fakeradar eine flexible und leistungsstarke Lösung zur Bekämpfung von Desinformation und zur Förderung der Medienkompetenz.
 
