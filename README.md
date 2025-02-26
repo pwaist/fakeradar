@@ -23,26 +23,26 @@ Die Fakeradar-App implementiert ein innovatives agentenbasiertes System, bei dem
 
 ## Hauptagenten und ihre Funktionen
 
-### Glaubwürdigkeit - Schnell
+### Glaubwürdigkeit - Schnell [LINK](https://fakeradar.de/glaubwuerdigkeit-schnell/#entitaetenschnell)
 Dieser Agent führt eine schnelle Erstbewertung der Glaubwürdigkeit von Entitäten durch. Er analysiert die Reputation der Quelle, prüft die historische Zuverlässigkeit und bewertet die Voreingenommenheit. Durch die Kombination verschiedener Indikatoren wie Quellenglaubwürdigkeit, Transparenz und Unabhängigkeit erstellt er ein Schnellprofil, das als erste Orientierung dient.
 
-### Glaubwürdigkeit - Details
+### Glaubwürdigkeit - Details [LINK](https://fakeradar.de/glaubwuerdigkeit-details/#entitaetendetails)
 Als Erweiterung des Schnell-Agenten führt dieser Agent eine tiefgehende Analyse durch. Er erstellt umfassende Dossiers zu Entitäten und bewertet deren Vertrauenswürdigkeit anhand eines gewichteten Kriterienkatalogs. Dazu gehören Expertise und Qualifikationen, Track-Record, Transparenz, Unabhängigkeit, Aktualität, Peer-Anerkennung, Quellenqualität und Feedback-Kultur. Jeder Faktor trägt mit einem spezifischen Prozentsatz zur Gesamtbewertung bei.
 
-### Fake News - Schnell
+### Fake News - Schnell [LINK](https://fakeradar.de/fakenews-schnell/#fakenewsschnell)
 Dieser Agent ist auf die schnelle Erkennung von Falschinformationen spezialisiert. Er prüft den Inhalt auf typische Merkmale von Fake News wie emotionale Sprache, ungewöhnliche Verbreitungsmuster und fehlende Quellenangaben. Durch den Abgleich mit bekannten Fakten und Datenbanken kann er rasch eine erste Einschätzung liefern.
 
-### Fake News - Details
+### Fake News - Details [LINK](https://fakeradar.de/fakenews-details/#fakenewsdetails)
 Als gründlicher Faktenprüfer folgt dieser Agent der Methodik professioneller Fact-Checker. Er isoliert die Primärquelle, gleicht Behauptungen mit verifizierten Datenbanken ab und analysiert den Kontext. Seine Bewertung basiert auf einem umfassenden Katalog von Kriterien wie faktische Genauigkeit, Aktualität, Vollständigkeit, Quellenvielfalt, Sprache, Transparenz und logische Konsistenz.
 
-### Deepfake Detektor
+### Fake News - Datenfusion [LINK](https://fakeradar.de/datenfusion/#datenfusion)
+Als Koordinator zwischen den verschiedenen Agenten fungiert dieser Agent als Integrator der Analyseergebnisse. Er kombiniert die Erkenntnisse der einzelnen Spezialagenten zu einer kohärenten Gesamtbewertung und sorgt für eine ausgewogene Darstellung der Ergebnisse. Durch die Gewichtung der verschiedenen Faktoren kann er komplexe Zusammenhänge erkennen und Nutzern ein umfassendes Bild vermitteln.
+
+### Deepfake Detektor [LINK](https://fakeradar.de/deepfake-detector-datails/#deepfakedetektor)
 Dieser spezialisierte Agent konzentriert sich auf die Analyse von Bildern, um Manipulationen und Deepfakes zu erkennen. Er untersucht visuelle Artefakte, Inkonsistenzen in Lichtreflexionen und anatomische Unregelmäßigkeiten. Durch die Integration mit Computer-Vision-APIs kann er subtile Hinweise auf digitale Manipulation identifizieren, die für das menschliche Auge oft nicht erkennbar sind.
 
-### Deepfake Reacherche
+### Deepfake Recherche [LINK](https://fakeradar.de/deepfake-detektor-recherche/#deepfakerecherche)
 Der Deepfake-Recherche-Agent auf fakeradar.de ist ein spezialisiertes Tool zur Überprüfung potenzieller Bildmanipulationen durch internetbasierte Recherche. Im Gegensatz zu rein technischen Analyseansätzen nutzt dieser Agent einen kontextbasierten Recherche-Workflow. Der Agent arbeitet in vier Hauptschritten: Zunächst lädt der Nutzer ein Bild hoch, das auf mögliche Manipulationen überprüft werden soll. Statt einer technischen Bildanalyse erstellt der Agent dann eine präzise Beschreibung des Bildinhalts, die als Grundlage für die weitere Recherche dient. Basierend auf dieser Beschreibung werden relevante Suchbegriffe und Phrasen automatisch generiert. Schließlich führt der Agent systematische Websuchen durch, indem er die generierten Keywords mit dem Begriff "Deepfake" kombiniert und die Ergebnisse strukturiert auswertet.
-
-### Fusionsstrategien
-Als Koordinator zwischen den verschiedenen Agenten fungiert dieser Agent als Integrator der Analyseergebnisse. Er kombiniert die Erkenntnisse der einzelnen Spezialagenten zu einer kohärenten Gesamtbewertung und sorgt für eine ausgewogene Darstellung der Ergebnisse. Durch die Gewichtung der verschiedenen Faktoren kann er komplexe Zusammenhänge erkennen und Nutzern ein umfassendes Bild vermitteln.
 
 ## Technologische Grundlagen
 
