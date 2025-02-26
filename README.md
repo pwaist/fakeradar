@@ -17,7 +17,7 @@ Fakeradar basiert auf einem mehrschichtigen Ansatz, der sowohl automatisierte KI
 
 Ein zentrales Merkmal ist die Fähigkeit der App, Nutzer schrittweise in die Lage zu versetzen, Manipulationen eigenständig zu erkennen. Dieser pädagogische Ansatz wird durch interaktive Erklärungen unterstützt, die bei jeder Analyse die verwendeten Kriterien und deren Gewichtung offenlegen. Dadurch wird sichergestellt, dass Anwender nicht nur passive Konsumenten von Ergebnissen bleiben, sondern aktiv lernen, wie Falschinformationen strukturiert aufgebaut sind.  
 
-# Agentische Architektur der Fakeradar-App
+# Agentische Architektur
 
 Die Fakeradar-App implementiert ein innovatives agentenbasiertes System, bei dem jede Analysefunktion als eigenständiger Agent konzipiert ist, der spezialisierte Aufgaben autonom erledigt. Diese modulare Architektur ermöglicht eine effiziente Verarbeitung komplexer Informationen und bietet Nutzern maßgeschneiderte Analysen. Die einzelnen Agenten sind in der Lage eigenständig Websites, SERPS und YouTube-Videos zu verfolgen und zu analysieren. 
 
