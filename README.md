@@ -1,5 +1,5 @@
 # Fakeradar
-Fakeradar ist eine benutzerfreundliche App zur Überprüfung der Glaubwürdigkeit von Nachrichten, Blogartikel und Videos. Sie analysiert Texte, Bilder und Videos auf Manipulation und hilft Nutzern, Desinformation zu erkennen. Die App ist kostenlos und ohne Anmeldung verfügbar, sowohl als PWA App, als Android App und auch als Chrome-Erweiterung. Schütze dich vor Fake News!
+Fakeradar ist eine benutzerfreundliche App zur Überprüfung der Glaubwürdigkeit von Nachrichten, Blogartikel und Videos. Sie analysiert Texte, Bilder und Videos auf Manipulation und hilft Nutzern, Desinformation zu erkennen. Die App ist kostenlos und ohne Anmeldung verfügbar, sowohl als PWA App, als Android App und auch als Chrome-Erweiterung.
 
 # Links
 🔗 https://fakeradar.de <br>
