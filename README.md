@@ -52,6 +52,7 @@ Der Deepfake-Recherche-Agent ist ein spezialisierter Agent zur Überprüfung pot
 
 Die Agenten nutzen verschiedene technologische Ansätze, darunter:
 
+- nahezu alle wesentlichen KI-API's (OpenAI, Openrouter, Azure, Perplexity, Anthropic...)
 - Semantische Textanalyse für die Bewertung von Nachrichteninhalten
 - Bildforensik für die Deepfake-Erkennung
 - Metadatenanalyse zur Überprüfung der Herkunft von Medien
