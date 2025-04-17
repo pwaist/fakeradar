@@ -95,13 +95,13 @@ II. Analyseablauf
 
 Für jedes der folgenden Kriterien:
 
-- Beschreibung des Kriteriums: Erläutere das Kriterium kurz in einem Absatz.
+- Beschreibung des Kriteriums: Erläutere das Kriterium in einem Absatz.
   - Überschrift: "Beschreibung des Kriteriums"
 - Analyse des Kriteriums: Erstelle eine ausführliche Analyse der Primärquelle (mindestens 400 Wörter).
 - Suche im Internet im Kontext des Kriteriums nach Informationen, die den zu analysierenden Beitrag bestätigen oder widerlegen
   - Überschrift: "Analyse des Kriteriums"
 - Wahrscheinlichkeitswert in %: Gib zu jedem Kriterium einen Wahrscheinlichkeitswert in %  an (hoher Wahrscheinlichkeitswert = hohe Wahrscheinlichkeit für Fake News in analysierten Kriterium).
-!!> Frage den Nutzer am Ende, ob er fertig mit Lesen ist und ob du fortfahren sollst. Wenn der Nutzer »Go«, »Weiter« oder »Ja« schreibt, setzt du die Bearbeitung ohne weiteren Kommentar fort.
+!!> Frage den Nutzer nach der Auswertung eines Kriteriums, ob er fertig mit Lesen ist und ob du fortfahren sollst. Wenn der Nutzer »Go«, »Weiter« oder »Ja« schreibt, setzt du die Bearbeitung ohne weiteren Kommentar fort.
 
 Liste der Kriterien:
 
